@@ -1,1 +1,1 @@
-<h1>User ini bangsat tidak boleh ngedit kutipan yang ini!!!</h1>
+<h1>ERROR 403!!!</h1>
