@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in Bangsat!
+                    You are logged in!
 
                     <p>
                         <a href="/quotes" class="btn btn-primary btn-lg">Lihat Quote</a>
